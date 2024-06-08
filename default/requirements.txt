@@ -1,0 +1,4 @@
+pynetworktables
+dt_apriltags
+opencv-contrib-python
+numpy
